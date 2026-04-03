@@ -2,10 +2,10 @@
 
 ## Catppuccin
 
-> [!NOTE] Palette
+> [!NOTE]
 > <https://catppuccin.com/palette/>
 
-> [!NOTE] Style Guide
+> [!NOTE]
 > <https://github.com/catppuccin/catppuccin/blob/main/docs/style-guide.md>
 
 ## Nord
